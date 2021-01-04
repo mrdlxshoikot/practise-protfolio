@@ -18,7 +18,7 @@ h2{
     padding-left: 2%;
 }
 .half-width img{
-width: 70%;
+width: 90%;
 }
 .top-banner{
     background-image: url("./images/developer-portfolio/top-banner.png");
@@ -30,7 +30,7 @@ section{
 }
 .link-button{
     text-decoration:none;
-    background-image: linear-gradient( lightSalmon,tomato);
+  background-color: #41B076;
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
